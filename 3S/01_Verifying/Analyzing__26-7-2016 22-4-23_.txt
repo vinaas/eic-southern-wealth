@@ -1,0 +1,5 @@
+The data.txt and guide.txt are CORRECT. 
+All planes of the figure were successfully generated. 
+
+
+ VIEW Verify_points.txt file to find INCORRECT points.
