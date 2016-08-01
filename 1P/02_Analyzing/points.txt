@@ -4,14 +4,14 @@
      -2544.8455,	      -4566.6906,	      -1461.6782 ; 		 //plane 0 point @4 
       3170.7775,	      -4552.2742,	      -1486.5225 ; 		 //plane 0 point @5 
       3132.3254,	       8552.8487,	      -1467.8986 ; 		 //plane 0 point @6 
-      -617.7928,	       8529.6409,	       5395.2078 ; 		 //plane 1  NOT REORDER point @7 
-     -3008.0066,	       -248.2409,	       5361.5140 ; 		 //plane 1  NOT REORDER point @8 
-      3132.4042,	       8525.9872,	       5431.0475 ; 		 //plane 1  NOT REORDER point @9 
-      3148.1055,	       3174.7274,	       5424.5842 ; 		 //plane 1  NOT REORDER point @10 
-     -1830.5908,	       3158.6878,	       5376.9782 ; 		 //plane 1  NOT REORDER point @11 
-     -1776.2079,	      -4564.7519,	       5367.9529 ; 		 //plane 1  NOT REORDER point @12 
-      3170.7775,	      -4552.2742,	       5415.2514 ; 		 //plane 1  NOT REORDER point @13 
-     -3071.9464,	      -4568.0201,	       5355.5642 ; 		 //plane 1  NOT REORDER point @14 
+      3132.4042,	       8525.9872,	       5431.0475 ; 		 //plane 1  NOT REORDER point @7 
+      -617.7928,	       8529.6409,	       5395.2078 ; 		 //plane 1  NOT REORDER point @8 
+      3148.1055,	       3174.7274,	       5424.5842 ; 		 //plane 1  NOT REORDER point @9 
+     -1830.5908,	       3158.6878,	       5376.9782 ; 		 //plane 1  NOT REORDER point @10 
+     -1776.2079,	      -4564.7519,	       5367.9529 ; 		 //plane 1  NOT REORDER point @11 
+      3170.7775,	      -4552.2742,	       5415.2514 ; 		 //plane 1  NOT REORDER point @12 
+     -3071.9464,	      -4568.0201,	       5355.5642 ; 		 //plane 1  NOT REORDER point @13 
+     -3008.0066,	       -248.2409,	       5361.5140 ; 		 //plane 1  NOT REORDER point @14 
       3148.1295,	       3166.5392,	       6849.2371 ; 		 //plane 2 point @15 
      -1838.5405,	       3150.1130,	       6864.3532 ; 		 //plane 2 point @16 
      -1784.2320,	      -4564.7722,	       6857.9581 ; 		 //plane 2 point @17 

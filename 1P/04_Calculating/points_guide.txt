@@ -1,5 +1,5 @@
  1 - 6; 		 //Plane 0
- 7 - 13; 		 //Plane 1
+ 7 - 14; 		 //Plane 1
  15 - 19; 		 //Plane 2
  20 - 26; 		 //Plane 3
  27 - 31; 		 //Plane 4
@@ -14,7 +14,7 @@
  79 - 84; 		 //Plane 13
  85 - 89; 		 //Plane 14
  90 - 93; 		 //Plane 15
-$1108.0000, 1708.0000, -1457.0000 ; 		 //measured point
-@7 ; 		 //anpha order
-#6 ; 		 //beta order
+$1108.0000, 1708.0000, -1457.0000 ; 		 //measured point 
+@6 ; 		 //anpha order
+#5 ; 		 //beta order
 !84.97 ;		 //LBP (m)
