@@ -1,0 +1,14 @@
+Value of point 25 is replaced by the average_point 
+Value of point 52 is replaced by the average_point 
+Value of point 54 is replaced by the average_point 
+Value of point 57 is replaced by the average_point 
+Value of point 63 is replaced by the average_point 
+Value of point 67 is replaced by the average_point 
+
+
+Value of point 56 is replaced by the average_point 
+Value of point 60 is replaced by the average_point 
+Value of point 64 is replaced by the average_point 
+Value of point 69 is replaced by the average_point 
+
+

@@ -2,7 +2,7 @@
 Segment 0: 1905(mm),  Segment 1: 13105(mm),  Segment 2: 5716(mm),  Segment 3: 4530(mm),  Segment 4: 9185(mm),  
 
  PLANE 1 
-Segment 0: 3750(mm),  Segment 1: 5351(mm),  Segment 2: 4979(mm),  Segment 3: 7724(mm),  Segment 4: 4947(mm),  Segment 5: 4320(mm),  Segment 6: 9098(mm),  
+Segment 0: 9098(mm),  Segment 1: 3750(mm),  Segment 2: 5351(mm),  Segment 3: 4979(mm),  Segment 4: 7724(mm),  Segment 5: 4947(mm),  Segment 6: 4320(mm),  
 
  PLANE 2 
 Segment 0: 4987(mm),  Segment 1: 7719(mm),  Segment 2: 4955(mm),  Segment 3: 7715(mm),  
