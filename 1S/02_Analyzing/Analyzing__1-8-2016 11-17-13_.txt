@@ -1,0 +1,7 @@
+The data.txt and guide.txt are CORRECT. 
+All planes of the figure were successfully generated. 
+The Theta is 0.01
+Figure was SUCCESSFULLY rotated to have anpha = beta = 0. 
+
+The file intersect.txt is CORRECT.
+ERRORs, could not identify SEGMENTs of planes of the figure, please check again. 

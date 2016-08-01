@@ -1,0 +1,6 @@
+The data.txt and guide.txt are CORRECT. 
+All planes of the figure were successfully generated. 
+The figure were rotated to anpha = beta = 0. 
+All segments belong the Figure were identified SUCCESSFULLY. 
+All segments belong the Figure were identified SUCCESSFULLY. 
+ERRORs: some SEGMENTs only belong 1 Plane, please check again. 
