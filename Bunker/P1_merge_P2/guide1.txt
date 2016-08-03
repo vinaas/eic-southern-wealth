@@ -1,0 +1,11 @@
+3 	- 63;		//FofK1
+64	- 88;		//P1ofK1
+89 	- 113;		//P2ofK1
+114	- 177;		//AofK1
+178	- 211;		//SofK1
+212	- 256;		//TofK1
+259	- 292;		//BofK1
+$293-293;		//DB(incorrect)
+@1;				//anpha(incorrect)
+#2;				//beta(incorrect)
+!236.00;		//LBP(incorrect)

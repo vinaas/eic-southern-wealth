@@ -1,0 +1,13 @@
+5   - 46;		//F
+47  - 65;   //S1
+66  - 82;   //S2
+83  - 102;  //S3
+103 - 132;  //A
+133 - 153;  //C
+157 - 186;  //T
+187 - 202;  //B
+154 - 156;  //chung
+$3 - 3;		//DB(incorrect)
+@1;				//anpha(incorrect)
+#2;				//beta(incorrect)
+!84.7;		//LBP(incorrect)
