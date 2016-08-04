@@ -1,0 +1,32 @@
+Plane 0: segment 0: 1883.635(mm),  segment 1: 9184.522(mm),  segment 2: 4530.722(mm),  segment 3: 5694.327(mm),  segment 4: 13105.265(mm),  
+
+Plane 1: segment 0: 3729.227(mm),  segment 1: 5351.376(mm),  segment 2: 4957.718(mm),  segment 3: 7723.636(mm),  segment 4: 1295.802(mm),  segment 5: 4320.256(mm),  segment 6: 9097.553(mm),  
+
+Plane 2: segment 0: 4965.490(mm),  segment 1: 7715.079(mm),  segment 2: 4933.690(mm),  segment 3: 7718.833(mm),  
+
+Plane 3: segment 0: 1883.635(mm),  segment 1: 6898.704(mm),  segment 2: 3729.227(mm),  segment 3: 1112.719(mm),  segment 4: 4667.431(mm),  segment 5: 1699.201(mm),  
+
+Plane 4: segment 0: 4957.718(mm),  segment 1: 1487.421(mm),  segment 2: 4965.490(mm),  segment 3: 1424.944(mm),  
+
+Plane 5: segment 0: 13105.265(mm),  segment 1: 6898.704(mm),  segment 2: 5351.376(mm),  segment 3: 1424.944(mm),  segment 4: 7718.833(mm),  segment 5: 8329.429(mm),  
+
+Plane 6: segment 0: 5694.327(mm),  segment 1: 1264.154(mm),  segment 2: 2207.729(mm),  segment 3: 1994.610(mm),  segment 4: 1555.644(mm),  segment 5: 1295.802(mm),  segment 6: 1490.027(mm),  segment 7: 4933.690(mm),  segment 8: 8329.429(mm),  
+
+Plane 7: segment 0: 9184.522(mm),  segment 1: 8951.914(mm),  segment 2: 1699.201(mm),  
+
+Plane 8: segment 0: 8951.914(mm),  segment 1: 873.451(mm),  segment 2: 8827.410(mm),  
+
+Plane 9: segment 0: 4530.722(mm),  segment 1: 873.451(mm),  segment 2: 4673.022(mm),  segment 3: 1264.154(mm),  
+
+Plane 10: segment 0: 8827.410(mm),  segment 1: 5169.178(mm),  segment 2: 8716.736(mm),  segment 3: 4667.431(mm),  
+
+Plane 11: segment 0: 4673.022(mm),  segment 1: 5169.178(mm),  segment 2: 1263.427(mm),  segment 3: 4156.811(mm),  segment 4: 2207.729(mm),  
+
+Plane 12: segment 0: 8716.736(mm),  segment 1: 1058.799(mm),  segment 2: 9097.553(mm),  segment 3: 1112.719(mm),  
+
+Plane 13: segment 0: 3472.527(mm),  segment 1: 1263.427(mm),  segment 2: 1058.799(mm),  segment 3: 4320.256(mm),  segment 4: 1555.644(mm),  
+
+Plane 14: segment 0: 7723.636(mm),  segment 1: 1490.027(mm),  segment 2: 7715.079(mm),  segment 3: 1487.421(mm),  
+
+Plane 15: segment 0: 4156.811(mm),  segment 1: 1994.610(mm),  segment 2: 3472.527(mm),  
+

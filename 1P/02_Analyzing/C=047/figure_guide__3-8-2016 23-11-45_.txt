@@ -1,0 +1,16 @@
+ 2 - 7; 		 //Plane 0
+ 8 - 15; 		 //Plane 1
+ 16 - 20; 		 //Plane 2
+ 21 - 27; 		 //Plane 3
+ 28 - 32; 		 //Plane 4
+ 33 - 39; 		 //Plane 5
+ 40 - 50; 		 //Plane 6
+ 51 - 54; 		 //Plane 7
+ 55 - 58; 		 //Plane 8
+ 59 - 63; 		 //Plane 9
+ 64 - 68; 		 //Plane 10
+ 69 - 74; 		 //Plane 11
+ 75 - 79; 		 //Plane 12
+ 80 - 85; 		 //Plane 13
+ 86 - 90; 		 //Plane 14
+ 91 - 94; 		 //Plane 15
